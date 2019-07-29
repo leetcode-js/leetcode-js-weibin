@@ -4,4 +4,8 @@
 
 ### easy
 
-[ ] 1. Two Sum
+- [ ] 1.Two Sum
+
+### medium
+
+### hard
