@@ -4,7 +4,7 @@
 
 ### easy
 
-- [ ] 1.Two Sum
+- [x] 1.Two Sum
 
 ### medium
 
