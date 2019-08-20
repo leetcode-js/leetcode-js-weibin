@@ -14,6 +14,7 @@ const hard = [
 module.exports = {
     title: 'Weibin\'s LeetCode',
     description: 'Weibin 的 LeetCode 题解 -- Javascript 题解',
+    base: '/leetcode-js-weibin/',
     themeConfig: {
         nav: [
             { text: '简单', link: '/easy/' },
