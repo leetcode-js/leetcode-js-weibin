@@ -2,7 +2,9 @@ const easy = [
     '',
     './1.two-sum/two-sum',
     './7.reverse-integer/reverse-integer',
-    './9.palindrome-number/palindrome-number'
+    './9.palindrome-number/palindrome-number',
+    './13.roman-to-integer/roman-to-integer',
+    './14.longest-common-prefix/longest-common-prefix',
 ]
 const medium = [
     ''

@@ -6,18 +6,10 @@ var reverse = function(x) {
     const MAX_NUM = Math.pow(2, 31) - 1
     const MIN_NUM = -Math.pow(2, 31)
     function isOverflow(num) {
-        if (num > 0) {
-            if (num > ( parseInt(MAX_NUM / 10))) {
-                return true
-            } else {
-                return false
-            }
+        if (num > ( parseInt(MAX_NUM / 10))|| num < (parseInt(MIN_NUM / 10))) {
+            return true
         } else {
-            if (num < (parseInt(MIN_NUM / 10))) {
-                return true
-            } else {
-                return false
-            }
+            return false
         }
     }
     let result = 0
