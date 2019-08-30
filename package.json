@@ -4,6 +4,7 @@
   "description": "a leetcode a day keeps proverty away",
   "main": "index.js",
   "scripts": {
+    "add": "node script/add.js",
     "dev": "vuepress dev docs",
     "build": "vuepress build docs",
     "deploy": "sh deploy.sh"
@@ -19,6 +20,7 @@
   "author": "weibin",
   "license": "MIT",
   "devDependencies": {
+    "inquirer": "^7.0.0",
     "vuepress": "^1.0.3"
   },
   "bugs": {
