@@ -2,10 +2,4 @@
 
 > a leetcode a day keeps poverty away
 
-### easy
-
-- [x] 1.Two Sum
-
-### medium
-
-### hard
+checkout my [github page](https://weibinzhu.github.io/leetcode-js-weibin/)
